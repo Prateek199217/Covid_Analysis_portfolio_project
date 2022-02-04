@@ -1,4 +1,4 @@
--- Select the data on which we want do analysis
+-- Select the data on which we want to Analyze
 
 SELECT location,date,total_cases, new_cases,total_deaths,population
 FROM [covid-project]..['covid-deaths$']
