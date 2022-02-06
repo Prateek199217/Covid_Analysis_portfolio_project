@@ -1,0 +1,7 @@
+COVID DATA VISUALIZATION
+
+For Data visualization data file is covid_deats.xlsx. 
+Data Extraction from covid_deats.xlsx by using MS SQL server management studio 
+For data, extraction use the file Covid_visualization.sql
+	 
+https://public.tableau.com/views/Coviddashboard_16440836452450/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link  Link for Dashboard of Covid Visuals
